@@ -6,7 +6,7 @@
  
 * 📫 How to reach me **mayatsadiya203@gmail.com**
 
-* ⚡️ **Fun fact,** In my childhood i used to imagine that  orange should be the big version of lemon. So, yes..! i can imagine the concept and error, creat a picture and solve it.
+* ⚡️ **Fun fact,** In my childhood i used to imagine that "orange should be the big version of lemon." So, yes..! i can imagine the concept and error, create a picture and solve it.
 
 ## Contact with me
 
