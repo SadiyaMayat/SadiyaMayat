@@ -30,4 +30,10 @@
 
 [![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+
+[![NLTK](https://img.shields.io/badge/NLTK-008080?style=for-the-badge&logo=nltk&logoColor=white)](https://www.nltk.org/)
+
+
+
 
